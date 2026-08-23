@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 I am a **2nd Year (4th Semester) Computer Engineering student** at Dr. D. Y. Patil College of Engineering.
+* 🎓 I am a **3rd Year (5th Semester) Computer Engineering student** at Dr. D. Y. Patil College of Engineering.
 * 💼 Previously a **Full-Stack Web Development Intern** at My Job Grow, where I built a comprehensive Task Management & Productivity Tool.
 * 🌱 Currently learning **React Native** for mobile development and mastering **DSA** in **C++** and **Python**.
 * 🤖 Completed the Generative AI Mastermind; diving deep into **Prompt Engineering**, **LLMs**, and **Agentic AI**.

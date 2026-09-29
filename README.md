@@ -1,75 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Saiyyad%20Zaki%20Ali%20%F0%9F%91%8B&fontSize=30&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Saiyyad%20Zaki%20Ali&fontSize=55&fontAlignY=35&animation=twinkling" width="100%"/>
 </div>
 
-<h3 align="center">Computer Engineering Fresher @ DYPCOE | Full-Stack Web & Mobile Dev | AI Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+Computer+Engineering;Full-Stack+Web+%26+Mobile+Developer;AI+%26+Prompt+Engineering+Enthusiast;Mastering+DSA+in+C%2B%2B+%26+Python&font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&width=600&height=50" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/saiyyad-zaki-ali-b8ab49333" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=zakiali2006&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/zakiali2006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=dev.to&logoColor=61DAFB)](https://zakialiportfolio.netlify.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiyyad-zaki-ali-b8ab49333) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakiali@example.com)
+
 </div>
 
 <br />
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-* 🎓 I am a **3rd Year (5th Semester) Computer Engineering student** at Dr. D. Y. Patil College of Engineering.
-* 💼 Previously a **Full-Stack Web Development Intern** at My Job Grow, where I built a comprehensive Task Management & Productivity Tool.
-* 🌱 Currently learning **React Native** for mobile development and mastering **DSA** in **C++** and **Python**.
-* 🤖 Completed the Generative AI Mastermind; diving deep into **Prompt Engineering**, **LLMs**, and **Agentic AI**.
-* 📜 Certified in **MongoDB Core Concepts**, **Python**, and hold a **B2 Upper Intermediate EF SET** English certification.
-* 🤝 Proud Student Member of **IEEE**.
+Hi there! I'm a **3rd Year (5th Sem) Computer Engineering Student** at DYPCOE with a profound passion for engineering robust software architectures and exploring Artificial Intelligence. I specialize in building scalable web and mobile applications from the ground up.
 
----
+- 📱 **Currently Hacking On:** Seamless cross-platform mobile applications using **React Native**.
+- 🧠 **AI Expertise:** Certified Generative AI Mastermind, specializing in **Agentic AI, LLMs, and Prompt Engineering**.
+- 🏆 **Certifications:** Elite credentials in **MongoDB Core Concepts**, **Python (NPTEL)**, and an **EF SET B2** English proficiency rating.
+- 💼 **Experience:** Previously engineered a comprehensive Task Management & Productivity platform as a **Full-Stack Developer Intern** at *My Job Grow*.
 
-### 🛠️ Tech Stack & Tools
+<br />
 
-<p align="center">
-  <strong>Languages</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="center">
-  <strong>Web & Mobile Development</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<p align="center">
-  <strong>AI & Cloud</strong><br>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
-</p>
-
-<p align="center">
-  <strong>Tools</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
-
----
-
-### 📊 GitHub Stats
+### 💻 Technical Expertise
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakiali2006&show_icons=true&theme=radical&hide_border=true" alt="Zaki's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiali2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+| 🌐 Languages & Core | 🛠️ Frontend & Mobile | 🗄️ Databases | ⚙️ DevOps & Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css&perline=3" /> | <img src="https://skillicons.dev/icons?i=react" /><br>*(React & Native)* | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=2" /> | <img src="https://skillicons.dev/icons?i=docker,postman,git,github&perline=2" /> |
+
 </div>
 
----
+<br />
+
+### 📈 Contribution History
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakiali2006&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>

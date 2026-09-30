@@ -8,7 +8,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zakiali2006&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/zakiali2006)
 [![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=dev.to&logoColor=61DAFB)](https://zakialiportfolio.netlify.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiyyad-zaki-ali-b8ab49333) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakiali@example.com)
